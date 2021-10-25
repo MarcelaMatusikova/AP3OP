@@ -1,5 +1,6 @@
-//seøaïte studenty dle získanıch bodù vzestupnì a vypište jména, pøíjmení a prùmìrné body 
-//všech seøazenıch studentù.
+//TODO
+//seÃ¸aÃ¯te studenty dle zÃ­skanÃ½ch bodÃ¹ vzestupnÃ¬ a vypiÅ¡te jmÃ©na, pÃ¸Ã­jmenÃ­ a prÃ¹mÃ¬rnÃ© body 
+//vÅ¡ech seÃ¸azenÃ½ch studentÃ¹.
 
 #include <iostream>
 #include <string>
